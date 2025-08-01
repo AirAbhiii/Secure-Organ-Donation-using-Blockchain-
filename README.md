@@ -1,2 +1,36 @@
-# Secure-Organ-Donation-using-Blockchain-
-This project leverages blockchain technology to build a transparent, tamper-proof, and secure platform for managing organ donation and transplantation records. It ensures trust among stakeholders — including hospitals, patients, and donors — by recording every transaction immutably on the blockchain.
+# Secure Organ Donation using Blockchain
+
+This project implements a secure, transparent, and decentralized platform for managing organ donation records using blockchain technology. It aims to eliminate fraud, increase trust, and ensure fair donor-recipient matching through smart contracts.
+
+# Project Objectives
+- Ensure data immutability and transparency in the organ donation process
+- Automate donor-recipient matching using smart contracts
+- Provide secure, role-based access to hospitals, patients, and authorities
+- Prevent data manipulation and unauthorized access
+
+# Features
+- Blockchain-based registration for donors and recipients
+- Smart contract-driven organ matching and verification
+- Real-time organ availability tracking
+- Role-based access control for different user types
+- Tamper-proof medical recordkeeping
+
+# Tech Stack
+- Frontend: HTML, CSS, JavaScript  
+- Backend: Node.js, Express.js  
+- Blockchain: Ethereum, Solidity  
+- Tools: MetaMask, Ganache, Truffle or Hardhat  
+- Optional: IPFS or MongoDB for storing off-chain data
+
+# Motivation
+Traditional organ donation systems suffer from lack of transparency, fraud, and inefficiencies. This project uses blockchain to ensure that all records are immutable, traceable, and accessible only to verified users.
+
+# Use Case Workflow
+1. Donors and recipients register through the platform
+2. Hospitals verify users and update organ availability
+3. Smart contracts match suitable donors and recipients
+4. All data is stored securely on the blockchain
+5. Authorities can monitor the system in real time
+
+## License
+This project is intended for academic and research purposes.
