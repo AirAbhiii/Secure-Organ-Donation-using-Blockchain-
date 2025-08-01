@@ -32,5 +32,3 @@ Traditional organ donation systems suffer from lack of transparency, fraud, and 
 4. All data is stored securely on the blockchain
 5. Authorities can monitor the system in real time
 
-## License
-This project is intended for academic and research purposes.
