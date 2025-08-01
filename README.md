@@ -16,7 +16,7 @@ This project implements a secure, transparent, and decentralized platform for ma
 - Tamper-proof medical recordkeeping
 
 # Tech Stack
-- Frontend: HTML, CSS, JavaScript  
+- Frontend: React,Tailwind  
 - Backend: Node.js, Express.js  
 - Blockchain: Ethereum, Solidity  
 - Tools: MetaMask, Ganache, Truffle or Hardhat  
